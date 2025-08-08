@@ -1,0 +1,44 @@
+body{
+  background-color: rgb(42, 93, 90);
+}
+.a1{
+  background-color: rgb( 49 , 19, 19);  
+  width: 636px;
+  height: 116px;
+  color: white;
+  padding-left: 28px ;
+  padding-right: 17px;
+  padding-top: 24px;
+  padding-bottom: 23px;
+  box-sizing: border-box;
+  font-size: 64px;
+  margin: 20px auto;
+}
+.a2{
+  width: 896px;
+  height: 259px;
+  background-color: rgb(31, 232, 183, 1);
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  margin: 20px auto;
+  text-align: center;
+  
+
+
+
+}
+.a3{
+  width: 1000px;
+  height: 638px;
+  background-color: rgb(0, 0, 0);
+  border: 10px solid rgb(255, 6, 6); 
+  padding: 45px 52px;
+
+
+  margin: 20px auto;
+
+
+
+
+}
+
